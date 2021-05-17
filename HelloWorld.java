@@ -5,6 +5,7 @@ class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
         add(1,2);
+        sub(3,2);
             
 
     }
