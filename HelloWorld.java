@@ -6,6 +6,7 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
         add(1,2);
         sub(3,2);
+        mul(1*2);
             
 
     }
