@@ -7,7 +7,7 @@ class HelloWorld {
         add(1,2);
         sub(3,2);
         mul(1,2);
-        sub(4,2)
+        sub(4,2);
             
 
     }
